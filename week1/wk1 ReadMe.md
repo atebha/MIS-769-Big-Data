@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # HW 1: Exploring Netflix Movies and TV Shows
 
 ## Overview
