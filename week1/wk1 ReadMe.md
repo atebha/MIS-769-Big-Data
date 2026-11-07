@@ -52,28 +52,3 @@ I have also included the raw CSV data as well in this project folder.
 ## Tools
 
 Python, Jupyter/Google Colab, pandas, and the Netflix titles CSV dataset. The notebook also imports `csv`, `json`, and `matplotlib`; it uses Google Drive mounting when run in Colab.
-=======
-# Cleaning Data with Pandas
-
-
-## Overview
-XXXXXX
-
-## What it does
-XXXXXXXX
-
-## Data
-XXXXXXXX
-
-## How to run
-XXXXXXXXXXXX
-
-## Key findings
-XXXXXXXXXXXXXXXXXXX
-
-## Limitations
-XXXXXXXXXXXXXXXXXXX
-
-## Tools
-Python, Pandas, 
->>>>>>> bba0fb6dc204e5164175bd56a0f09a8e0c562f24
